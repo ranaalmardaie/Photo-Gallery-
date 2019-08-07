@@ -1,0 +1,12 @@
+img{
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+}
+h1{
+  display:flex;
+  justify-content: center;
+  background: black;
+    color: white;
+    font-family: 'Beth Ellen', cursive;
+}
